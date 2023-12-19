@@ -25,7 +25,9 @@ The requests python library is required for the proper functioning of this tool:
 To install the required library, you can use the following command:
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+
+```
 
 
 ## Usage
