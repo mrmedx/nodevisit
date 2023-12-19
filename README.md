@@ -46,7 +46,6 @@ Verify the presence of an active nodejs server listening on a port within the de
 
 In the absence of a specified port range, the default range is set to 9222-9229.
 
-[![Demonstration](https://img.youtube.com/vi/y0iPyxEPrV4/0.jpg)](https://www.youtube.com/watch?v=y0iPyxEPrV4)
+## Demonstration
 
-## NodeVisit is brought to you by
-- [C++ Craftman](https://www.youtube.com/@cpp_craftman)
+[![Video](https://img.youtube.com/vi/y0iPyxEPrV4/0.jpg)](https://www.youtube.com/watch?v=y0iPyxEPrV4)
