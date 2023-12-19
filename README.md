@@ -40,9 +40,11 @@ python nodevisit.py <FROM_IP_ADDRESS> <TO_IP_ADDRESS> <FROM_PORT> <TO_PORT>
 
 Specify the IP address range from <FROM_IP_ADDRESS> to <TO_IP_ADDRESS> for scanning and identifying active nodejs servers.
 
-## Port Range
+## Port Range (OPTIONAL)
 
 Verify the presence of an active nodejs server listening on a port within the designated range defined by <FROM_PORT> to <TO_PORT>.
+
+In the absence of a specified port range, the default range is set to 9222-9229.
 
 ## NodeVisit is brought to you by
 - [MrMed](https://www.facebook.com/jasmeztr)
