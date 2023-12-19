@@ -1,7 +1,7 @@
-# ClamAV
+# NodeVisit
 
 <p align="center">
-  <img width="250" height="250" src="https://raw.githubusercontent.com/mrmedx/nodevisit/main/logo.png" alt='NodeVisit'>
+  <img width="250" height="250" src="https://raw.githubusercontent.com/mrmedx/nodevisit/main/logo.jpg" alt='NodeVisit'>
 </p>
 
 <p align="center">
